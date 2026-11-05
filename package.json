@@ -119,7 +119,7 @@
     "@emurgo/cardano-serialization-lib-nodejs": "^15.0.3",
     "@harmony-js/account": "^0.1.57",
     "@mysten/sui": "^2.3.1",
-    "@solana/web3.js": "^1.98.4",
+    "@solana/web3.js": "^3.1.1",
     "@ton/core": "^0.63.0",
     "@ton/crypto": "^3.3.0",
     "@ton/ton": "^16.2.2",
